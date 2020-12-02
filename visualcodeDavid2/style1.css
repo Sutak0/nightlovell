@@ -1,0 +1,40 @@
+body{
+    margin: 0px;
+    background-color: rgb(48, 73, 73);
+
+}
+
+table{
+    width: 100%;
+}
+img{
+    width: 300px;
+}
+ul{
+background-color: mediumslateblue;
+list-style-type: circle;
+width: 300px;
+text-align: center;
+line-height: 30px;
+border: 1px solid black;
+color: blueviolet;
+
+}
+a{
+    color: blueviolet;
+    text-decoration: none;
+
+}
+
+a:hover{
+    color: blue;
+
+}
+
+td{
+    text-align: center;
+}
+ul{
+    margin: auto;
+}
+
